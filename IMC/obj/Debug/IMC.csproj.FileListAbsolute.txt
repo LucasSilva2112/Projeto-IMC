@@ -1,0 +1,20 @@
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\bin\Debug\IMC.exe.config
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\bin\Debug\IMC.exe
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\bin\Debug\IMC.pdb
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.exe
+C:\Users\ranie\OneDrive\Área de Trabalho\IMC\obj\Debug\IMC.pdb
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\lucas\Desktop\Repositorio 1\Repositorios\IMC\IMC\obj\Debug\IMC.pdb
